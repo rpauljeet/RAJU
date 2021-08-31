@@ -1,3 +1,2 @@
 # RAJU
-My first pr
-oject
+My first project
